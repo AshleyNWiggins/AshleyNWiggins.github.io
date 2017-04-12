@@ -18,3 +18,7 @@ h2 {
 
 footer{text-align:center}
 .btn{background: #42DCA3; color: #fff}
+
+img{display: block;
+    margin: auto;
+    width: 40%;}
