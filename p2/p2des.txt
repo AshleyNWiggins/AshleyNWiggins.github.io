@@ -1,0 +1,16 @@
+This is a custom controller to be used to play video game ROMs on a computer, 
+such as Pokémon Pinball for the Nintendo GameBoy Advanced and Mario Kart for 
+the N64. It uses simple contact point buttons connected to the Arduino 
+Leonardo, which has the capability to mimic a computer keyboard and mouse. 
+This controller is meant to be played with two people at time, splitting 
+the controls between both people to try to create a collaborative situation 
+in the single player game, though it can be used with one player or even 
+three or more players. It has two tethered “pokéball” buttons on either 
+side of the controller, which is held by each of the two players. 
+I’m really proud of how this project turned out as a whole. The only thing 
+I would do differently is change the length of the tethers so that the players 
+could step further back from the screen for more space. This project is extra 
+special to me because I was able to show it to other students and see them 
+really enjoy my creation just like I hoped they would.               
+            
+                

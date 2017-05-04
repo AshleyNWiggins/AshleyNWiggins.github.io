@@ -1,0 +1,11 @@
+This is a video of a 3d character that I modeled and animated on my own 
+from start to finish. I'm happy with how the project turned out as a whole.
+I think the character model and texture is clean and simple, and the 
+animations look fluid and mostly natural. One thing I would improve is to add 
+more details to the character, like weapon and accessories. I would also try 
+to tweak the animation to see if I could get them to look any more realistic. 
+The biggest thing this model taught me was the importance of clean UVs, which 
+are actually very difficult to achieve and without which texturing would be 
+impossible.      
+            
+                

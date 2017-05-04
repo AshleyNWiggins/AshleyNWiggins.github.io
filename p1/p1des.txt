@@ -1,0 +1,13 @@
+This project is a digital 3D model replica of a real life New York apartment 
+interior, meaning that the model was created with the aid of photographs of 
+a real apartment that I had never visited or seen in person. The intention 
+of the work is to look as realistic as possible, while only using basic Maya 
+modeling and texturing techniques. I am happy with the replication of 
+complex shapes and details of the apartment as well as my ability to find and 
+create high quality textures for those shapes. I did well in paying attention 
+to the details of the photos that were available to me, which allowed me to 
+create a detailed model. There are definitely a few things that could use 
+improvement, though, like adding certain details to my models and texture. 
+In the end it is these things that I wish to improve about this work that 
+effected how I did my future work.
+                
