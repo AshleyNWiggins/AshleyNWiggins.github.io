@@ -59,11 +59,12 @@ h2 {
     color: #fff;
 }
 strong{font-size:33px}
-footer{text-align:center}
 .btn{background: #42DCA3; color: #fff; display: block;
     margin: auto;
     width: 40%;}
-
+footer{text-align: center; display: block;
+    margin: auto;
+    width: 80%;}
 img{display: block;
     margin: auto;
     width: 40%;}
@@ -71,7 +72,9 @@ video{display: block;
     margin: auto;
     width: 40%;}
     
-p{text-indent: 2.0em;}
-.div{display: block;
+p{display: block;
     margin: auto;
     width: 90%;}
+.div{display: block;
+    margin: auto;
+    width: 100%;}
